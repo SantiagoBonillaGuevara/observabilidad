@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ObserbabilidadApplication<obserbabilidad>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "disenoYArquitecura.obserbabilidad.ObserbabilidadApplication",
+            "projectName": "obserbabilidad",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
