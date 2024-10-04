@@ -1,0 +1,9 @@
+disenoYArquitecura\obserbabilidad\repositories\RepositoryUser.class
+disenoYArquitecura\obserbabilidad\controllers\controlProduct.class
+disenoYArquitecura\obserbabilidad\services\userService.class
+disenoYArquitecura\obserbabilidad\controllers\controlOrder.class
+disenoYArquitecura\obserbabilidad\controllers\controlUser.class
+disenoYArquitecura\obserbabilidad\entities\order.class
+disenoYArquitecura\obserbabilidad\entities\product.class
+disenoYArquitecura\obserbabilidad\entities\user.class
+disenoYArquitecura\obserbabilidad\ObserbabilidadApplication.class
